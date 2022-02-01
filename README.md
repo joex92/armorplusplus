@@ -1,7 +1,7 @@
 # armorplusplus
 THIS PLUGIN IS DISCONTINUED MORE INFORMATION AT spigotmc.org/resources/armorplusplus.74748
 
-but I'll try to bring it back at some point.
+EDIT: but I'll try to bring it back at some point. (@joex92)
 
 
 This is a plugin where i recreates the famous BlockArmor mod. You can download the plugin at spigotmc.org/resources/armorplusplus.74748
